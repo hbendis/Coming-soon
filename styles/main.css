@@ -1,7 +1,8 @@
 body {
   background-color: #111;
   -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  background: url(https://cdn.pixabay.com/photo/2016/11/20/08/58/celebration-1842258_960_720.jpg); }
 
 h1 {
   text-align: center;
